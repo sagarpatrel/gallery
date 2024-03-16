@@ -1,10 +1,20 @@
 # gallery
-
+#Node install
+```
+Node version 16
+```
+###npm version
+```
+8.11
+```
+```
+vu2 2
+```
 ## Project setup
 ```
 npm install
 ```
-
+ 
 ### Compiles and hot-reloads for development
 ```
 npm run serve
